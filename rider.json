@@ -1,0 +1,14 @@
+{
+    "kethan": {
+        "kilometers": 56,
+        "amount": 280
+    },
+    "mock": {
+        "kilometers": 5,
+        "amount": 25
+    },
+    "vamsi": {
+        "kilometers": 20,
+        "amount": 100
+    }
+}
